@@ -69,7 +69,7 @@ aa = 3234
 bb = 2398
 cc = 0
 dd = (aa + bb) / cc
-# what value does d now hold?
+# what value does dd now hold?
 
 yy = 7
 zz = yy % 2
@@ -172,4 +172,4 @@ my_string = "I love ruby"
 # problem 12
 my_string = "I love ruby"
 my_string.slice(2, 4) << my_string.slice(7...11).concat(my_string.slice(2...6))
-```
+``` 
